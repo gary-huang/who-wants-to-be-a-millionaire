@@ -1,0 +1,15 @@
+John,Teacher,8
+Fred,Jock,1
+Cooper,Scientist,10
+Derek,Drug Addict,0
+Rick,Hockey Player,5
+Jessie,Model,2
+Bill,Unemployed,1
+Max,High School Nerd,7
+Xavier,Banker,8
+Zanon,Baker,5
+Kyle,Murderer,0
+Osama,Refugee,6
+Samantha,Cheerleader,1
+Jack,Gambler,5
+Savanah,Doctor,9
